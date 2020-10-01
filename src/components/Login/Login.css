@@ -1,0 +1,11 @@
+.login {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.login button {
+    font-size: 16px;
+    padding: 10px 40px;
+    text-transform: uppercase;
+
+}
